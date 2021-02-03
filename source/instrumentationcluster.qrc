@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/drawable">
+        <file alias="car">drawable/car.png</file>
+        <file alias="light">drawable/light.png</file>
+        <file alias="mustang">drawable/mustang.png</file>
+        <file alias="headlights">drawable/headlights.png</file>
+        <file alias="road">drawable/road.png</file>
+        <file alias="engine">drawable/engine.png</file>
+        <file alias="fog">drawable/fog.png</file>
+        <file alias="airbag">drawable/airbag.png</file>
+        <file alias="rightturn">drawable/rTurn.png</file>
+        <file alias="leftturn">drawable/lTurn.png</file>
+        <file alias="battery">drawable/battery.png</file>
+        <file alias="fuel">drawable/fuel.png</file>
+        <file alias="arch">drawable/arch.png</file>
+        <file alias="albumart">drawable/albumart.png</file>
+        <file alias="artist">drawable/artist.png</file>
+        <file alias="album">drawable/album.png</file>
+        <file alias="title">drawable/title.png</file>
+        <file alias="wiper">drawable/car_wipers.png</file>
+        <file alias="lCornerLight">drawable/lCornerLight.png</file>
+        <file alias="rCornerLight">drawable/rCornerLight.png</file>
+        <file alias="heat">drawable/heat.png</file>
+    </qresource>
+</RCC>
